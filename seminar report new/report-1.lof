@@ -1,0 +1,9 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Illustration of semisupervised multilabel learning for image annotation.}}{3}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Image annotation examples. The wrongly annotated keywords are indicated by red color.}}{20}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Precision–recall curve of image annotation results using different k`s to compute the Laplacian matrix, when $15\times c$ images are labeled. (a) NUS-WIDE. (b) NSRA-MM 2.0. (c) Kodak.}}{21}{}%
+\addvspace {10\p@ }

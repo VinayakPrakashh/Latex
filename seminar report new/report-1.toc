@@ -1,0 +1,15 @@
+\contentsline {paragraph}{ }{1}{}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{3}{}%
+\contentsline {section}{\numberline {2.1}Fully homomorphic encryption(FHE)}{3}{}%
+\contentsline {section}{\numberline {2.2}Partially homomorphic encryption(PHE)}{4}{}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{5}{}%
+\contentsline {section}{\numberline {3.1}Review of literature}{5}{}%
+\contentsline {section}{\numberline {3.2}Comparison of schemes}{5}{}%
+\contentsline {section}{\numberline {3.3}Implementation of schemes}{6}{}%
+\contentsline {section}{\numberline {3.4}Encryption Algorithm}{7}{}%
+\contentsline {section}{\numberline {3.5}Security analysis}{8}{}%
+\contentsline {section}{\numberline {3.6}Evaluation of Applications}{9}{}%
+\contentsline {chapter}{\numberline {4}CONCLUSIONS}{11}{}%
+\contentsline {chapter}{\numberline {5}REFERENCES}{12}{}%
