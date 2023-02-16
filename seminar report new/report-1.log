@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.4)  15 FEB 2023 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.4)  16 FEB 2023 08:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -378,7 +378,7 @@ $[]$ $[]$
 [1
 
 {C:/Users/ACER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>] 
-[1] [1] (report-1.toc)
+[1] (report-1.toc)
 \tf@toc=\write3
 \openout3 = `report-1.toc'.
 
@@ -390,33 +390,33 @@ Chapter 1.
 
 ]
 Chapter 2.
-<type.jpg, id=23, 273.73062pt x 100.41054pt>
+<type.jpg, id=20, 273.73062pt x 100.41054pt>
 File: type.jpg Graphic file (type jpg)
 <use type.jpg>
-Package pdftex.def Info: type.jpg  used on input line 126.
+Package pdftex.def Info: type.jpg  used on input line 107.
 (pdftex.def)             Requested size: 298.75264pt x 109.59238pt.
 [3
 
  <./type.jpg>] [4]
 Chapter 3.
-<he.jpg, id=32, 219.82124pt x 117.43875pt>
+<he.jpg, id=28, 219.82124pt x 117.43875pt>
 File: he.jpg Graphic file (type jpg)
 <use he.jpg>
-Package pdftex.def Info: he.jpg  used on input line 141.
+Package pdftex.def Info: he.jpg  used on input line 122.
 (pdftex.def)             Requested size: 298.75264pt x 159.61241pt.
 [5
 
  <./he.jpg>] [6]
-<algo.png, id=39, 853.1875pt x 445.665pt>
+<algo.png, id=36, 853.1875pt x 445.665pt>
 File: algo.png Graphic file (type png)
 <use algo.png>
-Package pdftex.def Info: algo.png  used on input line 168.
+Package pdftex.def Info: algo.png  used on input line 149.
 (pdftex.def)             Requested size: 298.75264pt x 156.05309pt.
  [7] [8 <./algo.png>]
-<security.png, id=48, 313.17pt x 162.6075pt>
+<security.png, id=45, 313.17pt x 162.6075pt>
 File: security.png Graphic file (type png)
 <use security.png>
-Package pdftex.def Info: security.png  used on input line 186.
+Package pdftex.def Info: security.png  used on input line 167.
 (pdftex.def)             Requested size: 298.75264pt x 155.12631pt.
  [9 <./security.png>] [10]
 Chapter 4.
@@ -437,8 +437,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  5326 strings out of 475385
- 85240 string characters out of 2777380
- 437265 words of memory out of 3000000
+ 85382 string characters out of 2777380
+ 437275 words of memory out of 3000000
  26630 multiletter control sequences out of 15000+600000
  476271 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -449,9 +449,9 @@ Here is how much of TeX's memory you used:
 amsfonts/cm/cmr10.pfb><C:/Users/ACER/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr12.pfb><C:/Users/ACER/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmr9.pfb>
-Output written on report-1.pdf (15 pages, 390131 bytes).
+Output written on report-1.pdf (14 pages, 388725 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
