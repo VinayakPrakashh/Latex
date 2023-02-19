@@ -31,12 +31,6 @@
 \titleformat{\chapter}[display]
 {\normalfont\Large\bfseries\centering}{\chaptertitlename\
 \thechapter}{20pt}{\Large}
-
-
-%\title{\textbf{A seminar report on\\TRUSTWORTHINESS MANAGEMENT IN THE SOCIAL INTERNET OF THINGS} 
-%}
-%\author{\textbf{Deena Jose}}
-
 \begin{document}
 
 \thispagestyle{empty}
@@ -97,31 +91,35 @@
 
 \chapter{INTRODUCTION}
 
-\paragraph{}Homomorphic encryption is a cryptographic technique that allows computations to be performed on ciphertext, resulting in encrypted output that, when decrypted, is equivalent to the result of the same computation performed on the plaintext. This has important implications for privacy and security in a variety of applications, including cloud computing, data storage and sharing, and privacy-sensitive data processing.
+\paragraph{}Homomorphic encryption is a type of encryption that allows computations to be performed on encrypted data without the need for decryption. This powerful technology has the potential to revolutionize the way sensitive data is stored and processed in the cloud, particularly in industries such as finance, healthcare, and government. Homomorphic encryption has two main forms: somewhat homomorphic encryption (SHE), which allows a limited set of computations to be performed, and fully homomorphic encryption (FHE), which allows arbitrary computations to be performed. In this seminar report, we will provide an overview of homomorphic encryption, including its history, applications, and limitations. We will also review the current state-of-the-art in homomorphic encryption research, including recent advances in both SHE and FHE, as well as ongoing efforts to improve the efficiency and security of homomorphic encryption schemes. Finally, we will discuss the potential impact of homomorphic encryption on various industries and its future direction as an emerging technology.
   
 \chapter{LITERATURE REVIEW}
-Homomorphic encryption has been the subject of research for several decades, with many different approaches proposed. One of the earliest proposals for homomorphic encryption was by Rivest, Adleman, and Dertouzos in 1978, who proposed the concept of "privacy homomorphisms" . Since then, a large body of research has been conducted on the topic, including the development of various homomorphic encryption schemes, such as fully homomorphic encryption and partially homomorphic encryption.
+Homomorphic encryption is a relatively new area of research in cryptography that allows for the processing of encrypted data without decrypting it. In recent years, there has been a growing interest in homomorphic encryption due to its potential to enable secure and private computation in the cloud, particularly in areas such as finance, healthcare, and government. In this literature review, we will survey the current state-of-the-art in homomorphic encryption research, including its history, applications, and future directions.
+\section{History of Homomorphic Encryption}
+The idea of homomorphic encryption was first introduced by Rivest, Adleman, and Dertouzos in 1978, with their paper "On Data Banks and Privacy Homomorphisms". However, it was not until the 2000s that significant progress was made in developing practical homomorphic encryption schemes. In 2009, Craig Gentry introduced the first fully homomorphic encryption scheme, which allowed for arbitrary computation on encrypted data. Since then, researchers have made significant progress in improving the efficiency and security of homomorphic encryption schemes, with several practical applications now possible.
+\section{Applications of Homomorphic Encryption}
+Homomorphic encryption has many potential applications in a variety of fields. In finance, it can be used to enable secure computation on encrypted financial data, allowing for privacy-preserving financial analysis and fraud detection. In healthcare, it can be used to enable secure computation on encrypted medical data, enabling the sharing of data across different healthcare providers without compromising patient privacy. In government, it can be used to enable secure computation on encrypted data, enabling privacy-preserving policy analysis and decision-making.
+\section{Types of Homomorphic Encryption}
 \begin{figure}[h]
 	\centering
 	\hspace{21pt}
 	\includegraphics[width=.70\linewidth]{type.jpg}
 	\label{fig:type.png}
 \end{figure}
-\section{Fully homomorphic encryption(FHE)}
+\subsection{Fully homomorphic encryption(FHE)}
 Fully homomorphic encryption (FHE) is a type of homomorphic encryption that allows for arbitrary computations to be performed on encrypted data, without the need to decrypt the data beforehand. This has important implications for privacy and security, as sensitive data can be processed without revealing its underlying content. Gentry first proposed the concept of fully homomorphic encryption in 2009, using ideal lattices as the underlying mathematical structure [3]. Since then, further research has focused on improving the efficiency and practicality of FHE, and on the development of new FHE schemes.
-\section{Partially homomorphic encryption(PHE)}\label{AA}
+\subsection{Partially homomorphic encryption(PHE)}\label{AA}
 Partially homomorphic encryption (PHE), on the other hand, allows for a limited set of computations to be performed on encrypted data, such as addition or multiplication. This type of encryption is less computationally intensive than FHE, and is more practical for certain types of applications, such as data sharing and cloud computing.
-  
-\chapter{METHODOLOGY}
+\subsection{Somewhat Homomorphic Encryption (SHE)}
+Somewhat Homomorphic Encryption (SHE) is a type of homomorphic encryption that enables a limited set of computations to be performed on encrypted data. It was first introduced by Rivest, Shen, and Wagner in 2010. The main advantage of SHE is its relatively low computational overhead compared to Fully Homomorphic Encryption (FHE). While SHE can only handle a limited number of operations, it is still useful in many practical applications, including secure computation and privacy-preserving data analysis. However, SHE has its limitations, including its inability to handle more complex operations, which has led to ongoing research to improve its capabilities.
+\section{Recent Advances in Homomorphic Encryption}
+Recent years have seen significant advances in the development of homomorphic encryption schemes, particularly in the area of efficient and practical schemes. Several new schemes have been proposed, including TFHE (the Fast Fully Homomorphic Encryption over Torus) and FHEW (the Fully Homomorphic Encryption Wizard). These schemes have demonstrated significant improvements in performance, making practical applications of homomorphic encryption more feasible.
+\section{Future Directions in Homomorphic Encryption}
+Looking ahead, there are several promising areas of research in homomorphic encryption. One area of interest is the development of new homomorphic encryption schemes that are even more efficient and practical than current schemes. Another area of interest is the development of homomorphic encryption schemes that are more secure against attacks. Finally, there is also a growing interest in the use of homomorphic encryption in combination with other cryptographic techniques, such as secure multi-party computation, to enable even more powerful privacy-preserving computation.
 
-\section{Review of literature}
-In conclusion, the field of homomorphic encryption has seen a great deal of research and development, with many different approaches proposed and evaluated.In addition to the development of different homomorphic encryption schemes, research has also focused on the efficiency of these algorithms. This includes the development of algorithms that minimize the number of encryptions and decryptions required, as well as the optimization of the underlying mathematical structures used in the encryption process. Despite these efforts, there are still many challenges to be addressed, including the efficiency of these algorithms, the development of practical and secure homomorphic encryption schemes, and the need for further research into the security and privacy implications of these techniques.
-\begin{figure}[h]
-	\centering
-	\hspace{21pt}
-	\includegraphics[width=.70\linewidth]{he.jpg}
-	\label{fig:he.jpg}
-\end{figure}
+\section{Conclusion}
+Homomorphic encryption is an exciting area of research that has the potential to enable secure and private computation in a wide range of fields. While significant progress has been made in recent years, there are still many open research questions in the field. As homomorphic encryption continues to develop, it is likely that we will see even more practical applications of this powerful technology.
+\chapter{METHODOLOGY}
 \section{Comparison of schemes}
 Homomorphic encryption can be broadly categorized into two types: fully homomorphic encryption (FHE) and partially homomorphic encryption (PHE). Both types of homomorphic encryption have their own strengths and weaknesses, and are best suited for different applications.
 
@@ -132,6 +130,12 @@ Partially homomorphic encryption (PHE), on the other hand, allows for a limited 
 In terms of security, both FHE and PHE offer strong security guarantees, as long as the underlying mathematical structures used in the encryption process are secure. However, FHE is generally considered to be more secure than PHE, as it allows for arbitrary computations to be performed on encrypted data, making it harder for an attacker to extract information about the underlying data.
 
 In conclusion, the choice between FHE and PHE depends on the specific requirements of the application, including the level of privacy and security required, as well as the computational and storage requirements. For privacy-sensitive applications, such as medical data analysis or credit card fraud detection, FHE may be the preferred choice, as it offers the highest level of privacy. However, for applications that require fast processing and low storage requirements, PHE may be a more practical solution.
+\begin{figure}[h]
+	\centering
+	\hspace{21pt}
+	\includegraphics[width=.70\linewidth]{he.jpg}
+	\label{fig:he.jpg}
+\end{figure}
 \section{Implementation of schemes}
 For partial homomorphic encryption (PHE) schemes, the implementation typically involves the use of a public-key encryption system, such as RSA or ElGamal. The encryption process involves transforming the plaintext into ciphertext using the public key, and the decryption process involves transforming the ciphertext back into plaintext using the private key. For PHE schemes that allow for computations on encrypted data, such as addition or multiplication, specific algorithms are used to perform these computations on the ciphertext, without the need to decrypt the data beforehand.
 
@@ -183,8 +187,7 @@ example: AES (Advanced Encryption Standard) is a widely used symmetric-key encry
 \end{itemize}
 
 \chapter{CONCLUSIONS}
-Homomorphic encryption is a powerful tool for privacy-preserving computation, and has the potential to revolutionize the way we store and process sensitive data. With further research and development, it is likely that this technology will become increasingly important in a variety of contexts, and will play a key role in ensuring the privacy and security of sensitive information.
-
+In conclusion, homomorphic encryption is a powerful technology that has the potential to enable secure and private computation on encrypted data without the need for decryption. Somewhat homomorphic encryption (SHE) and fully homomorphic encryption (FHE) are the two main forms of homomorphic encryption, each with its own set of advantages and limitations. While homomorphic encryption has already demonstrated its usefulness in several practical applications, including finance, healthcare, and government, ongoing research is focused on improving the efficiency and security of homomorphic encryption schemes. As homomorphic encryption continues to develop, it is likely that we will see even more practical applications of this technology in the near future. With its potential to enable secure and private computation in the cloud, homomorphic encryption has the potential to transform the way sensitive data is processed and stored in various industries, making it an exciting emerging technology with promising future prospects.
 \chapter{REFERENCES}
 
 \begin{itemize}

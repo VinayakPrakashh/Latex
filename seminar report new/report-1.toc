@@ -2,14 +2,20 @@
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{2}{}%
 \contentsline {paragraph}{}{2}{}%
 \contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{3}{}%
-\contentsline {section}{\numberline {2.1}Fully homomorphic encryption(FHE)}{3}{}%
-\contentsline {section}{\numberline {2.2}Partially homomorphic encryption(PHE)}{4}{}%
-\contentsline {chapter}{\numberline {3}METHODOLOGY}{5}{}%
-\contentsline {section}{\numberline {3.1}Review of literature}{5}{}%
-\contentsline {section}{\numberline {3.2}Comparison of schemes}{5}{}%
-\contentsline {section}{\numberline {3.3}Implementation of schemes}{6}{}%
-\contentsline {section}{\numberline {3.4}Encryption Algorithm}{7}{}%
-\contentsline {section}{\numberline {3.5}Security analysis}{8}{}%
-\contentsline {section}{\numberline {3.6}Evaluation of Applications}{9}{}%
+\contentsline {section}{\numberline {2.1}History of Homomorphic Encryption}{3}{}%
+\contentsline {section}{\numberline {2.2}Applications of Homomorphic Encryption}{3}{}%
+\contentsline {section}{\numberline {2.3}Types of Homomorphic Encryption}{4}{}%
+\contentsline {subsection}{\numberline {2.3.1}Fully homomorphic encryption(FHE)}{4}{}%
+\contentsline {subsection}{\numberline {2.3.2}Partially homomorphic encryption(PHE)}{4}{}%
+\contentsline {subsection}{\numberline {2.3.3}Somewhat Homomorphic Encryption (SHE)}{4}{}%
+\contentsline {section}{\numberline {2.4}Recent Advances in Homomorphic Encryption}{5}{}%
+\contentsline {section}{\numberline {2.5}Future Directions in Homomorphic Encryption}{5}{}%
+\contentsline {section}{\numberline {2.6}Conclusion}{5}{}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{6}{}%
+\contentsline {section}{\numberline {3.1}Comparison of schemes}{6}{}%
+\contentsline {section}{\numberline {3.2}Implementation of schemes}{7}{}%
+\contentsline {section}{\numberline {3.3}Encryption Algorithm}{8}{}%
+\contentsline {section}{\numberline {3.4}Security analysis}{8}{}%
+\contentsline {section}{\numberline {3.5}Evaluation of Applications}{9}{}%
 \contentsline {chapter}{\numberline {4}CONCLUSIONS}{11}{}%
 \contentsline {chapter}{\numberline {5}REFERENCES}{12}{}%
