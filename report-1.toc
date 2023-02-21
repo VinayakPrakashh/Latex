@@ -17,5 +17,5 @@
 \contentsline {section}{\numberline {3.3}Encryption Algorithm}{8}{}%
 \contentsline {section}{\numberline {3.4}Security analysis}{8}{}%
 \contentsline {section}{\numberline {3.5}Evaluation of Applications}{9}{}%
-\contentsline {chapter}{\numberline {4}CONCLUSIONS}{11}{}%
+\contentsline {chapter}{\numberline {4}CONCLUSION}{11}{}%
 \contentsline {chapter}{\numberline {5}REFERENCES}{12}{}%
