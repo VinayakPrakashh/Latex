@@ -1,0 +1,21 @@
+\contentsline {chapter}{Abstract}{i}{}%
+\contentsline {chapter}{List of Figures}{iv}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}Problem statement}{1}{}%
+\contentsline {section}{\numberline {1.2}Project objectives}{2}{}%
+\contentsline {chapter}{\numberline {2}Project Design and Testing}{3}{}%
+\contentsline {section}{\numberline {2.1}CODING :KEILUVISION}{3}{}%
+\contentsline {subsection}{\numberline {2.1.1}CODE EXECUTION:keiluvision5}{4}{}%
+\contentsline {subsection}{\numberline {2.1.2}Generating hex file}{4}{}%
+\contentsline {section}{\numberline {2.2}BURNING CODE TO AT89S51}{4}{}%
+\contentsline {subsection}{\numberline {2.2.1}Arduino as ISP}{4}{}%
+\contentsline {subsection}{\numberline {2.2.2}Connecting Arduino with AT89S51}{5}{}%
+\contentsline {subsection}{\numberline {2.2.3}Uploading code to AT89S51}{5}{}%
+\contentsline {section}{\numberline {2.3}PROJECT CIRCUIT AND TESTING}{6}{}%
+\contentsline {subsection}{\numberline {2.3.1}Circuit Connections}{7}{}%
+\contentsline {subsection}{\numberline {2.3.2}Working of Code}{7}{}%
+\contentsline {chapter}{\numberline {3}Conclusion}{9}{}%
+\contentsline {section}{\numberline {3.1}APPLICATIONS}{9}{}%
+\contentsline {chapter}{\numberline {4}Bill of Materials}{11}{}%
+\contentsline {chapter}{\numberline {5}Code}{12}{}%
+\contentsline {chapter}{References}{14}{}%
